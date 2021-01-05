@@ -78,7 +78,7 @@ Responsive media queries
 
 .navbar-default {
   background-color: transparent;
-  border: 0px; more-button;
+  border: 0px;
   padding: 20px 0;
   transition: all 0.3s;
 }
@@ -87,7 +87,7 @@ Responsive media queries
   font-size: 36px;
   font-weight: bolder;
   font-family: 'Sirin Stencil', cursive;
-  color: rgb(255, 54, 0);
+  color: rgb(0, 175, 255);
 
 }
 
@@ -99,7 +99,7 @@ Responsive media queries
 .navbar-default .navbar-nav>li>a {
   font-size: 20px;
   font-weight: 400;
-  color: rgb(255, 54, 0);
+  color: rgb(0, 175, 255);
   outline: none;
   margin-right: 0px;
 
@@ -133,15 +133,14 @@ Responsive media queries
     margin:auto;
     margin-top:0%;
   }
-  .about-me{
+  /* .about-me{
     margin-top:20px;
-    /*margin-bottom: 20px;*/
+    margin-bottom: 20px;
     text-align:justify;padding:10px;
-  }
-
+  } */
 
   .header {
-    background: url('../img/bg-banner03.jpg') no-repeat fixed;
+    background: url('../img/John1.jpg') no-repeat fixed;
     background-size: cover;
     min-height: 630px;
     padding-top: n-top: 20px;
@@ -150,6 +149,8 @@ Responsive media queries
     background-repeat:no-repeat;
     background-position:center;
   }
+
+  
   #copyright{
     padding-right:20%;
   }
@@ -171,7 +172,7 @@ Responsive media queries
   min-height: 650px;
 }
 
-.navbar-border {}
+.navbar-border
 
 .banner-text {
   border-left: 5px solid #BE2525;
@@ -218,17 +219,13 @@ Responsive media queries
   width: 50%;
   margin-top:2%;
 }
-
-.project-links{
-
-}
 .project-links li{
   display:inline-block;
   text-decoration: none;
   padding-right: 20px;
   padding-top: 7px;
   padding-bottom: 2px;
-  float:left;
+  float: left;
   margin-left:33px;
   margin-bottom:20px;
   font-size: 25px;
@@ -240,7 +237,7 @@ Responsive media queries
   margin-bottom:60px;
 }
 #about{
-  background-color: rgb(255, 69, 0);
+  background-color: rgb(0, 174, 255);
   
 }
 #my-description{
@@ -305,7 +302,7 @@ Responsive media queries
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #ff4d0b;
+  background-color: #0bc6ff;
 }
 
 .about:hover .overlay {
@@ -325,7 +322,7 @@ Responsive media queries
 
 
 
-/*               sjheueueuwuesi BAOUT ME*/
+/*  jheueueuwuesi BAOUT ME*/
 
 .section-padding {
   padding: 60px 0px;
@@ -343,7 +340,7 @@ Responsive media queries
 }
 
 .about-text p {
-  color: ##fffde0;
+  color: #fffde0;
 }
 
 .abt-list li {
@@ -442,7 +439,7 @@ blockquote {
 
 footer {
   padding: 40px 0;
-  background-color: rgb(255, 69, 0);
+  background-color: rgb(0, 174, 255);
 }
 
 .footer a {
@@ -508,7 +505,7 @@ footer {
 .social-list li a {
   font-size: 28px;
   margin-right: 15px;
-  4color: rgb(240, 73, 20);
+  color: rgb(0, 175, 255);
 }
 
 .type-underline, .type-underline:hover {
