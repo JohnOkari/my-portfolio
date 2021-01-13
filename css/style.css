@@ -69,6 +69,7 @@ Responsive media queries
   min-height: 0px;
   position: center;
   background-repeat:no-repeat;
+  padding: 25px;
 }
 
 .statement-opener{
