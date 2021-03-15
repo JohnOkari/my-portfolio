@@ -64,7 +64,8 @@ Responsive media queries
 ***********************************/
 
 .header {
-  background: url('../img/John1.jpg') no-repeat fixed;
+  /* background: url('../img/John1.jpg') no-repeat fixed; */
+  background: url('https://cdn.pixabay.com/photo/2016/03/09/09/17/computer-1245714_960_720.jpg') no-repeat fixed;
   background-size: cover;
   min-height: 0px;
   position: center;
@@ -141,7 +142,8 @@ Responsive media queries
   } */
 
   .header {
-    background: url('../img/John1.jpg') no-repeat fixed;
+    /* background: url('../img/John1.jpg') no-repeat fixed; */
+    background: url('https://cdn.pixabay.com/photo/2016/03/09/09/17/computer-1245714_960_720.jpg') no-repeat fixed;
     background-size: cover;
     min-height: 630px;
     padding-top: n-top: 20px;
